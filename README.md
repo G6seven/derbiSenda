@@ -12,4 +12,6 @@ I have three complete EBE050 engines with 6-speed transmissions, one spare set o
 when it comes to frame, the bike was originally derbi senda Extreme 2004 or at least according to the VIN ( VTHSR2A1A ) 
 
 ### what's the plan:
-sell one engine for money, 
+sell one engine for money,
+
+engine model STL files: https://www.printables.com/model/890375-derbi-ebe-050-engine-scan
