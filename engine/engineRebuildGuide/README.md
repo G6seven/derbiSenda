@@ -22,7 +22,7 @@ engine block screws:
 * 1x M6x45
 * 2x M6x40
 * 3x M6x50
-* 4* M6x55
+* 4x M6x55
 
 clutch cover screws:
 * 3x M6x30
